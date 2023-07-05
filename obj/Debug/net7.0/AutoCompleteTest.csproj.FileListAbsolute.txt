@@ -1,0 +1,15 @@
+D:\Antony\NCCU\Seminar\AutoCompleteTest\bin\Debug\net7.0\AutoCompleteTest.exe
+D:\Antony\NCCU\Seminar\AutoCompleteTest\bin\Debug\net7.0\AutoCompleteTest.deps.json
+D:\Antony\NCCU\Seminar\AutoCompleteTest\bin\Debug\net7.0\AutoCompleteTest.runtimeconfig.json
+D:\Antony\NCCU\Seminar\AutoCompleteTest\bin\Debug\net7.0\AutoCompleteTest.dll
+D:\Antony\NCCU\Seminar\AutoCompleteTest\bin\Debug\net7.0\AutoCompleteTest.pdb
+D:\Antony\NCCU\Seminar\AutoCompleteTest\obj\Debug\net7.0\AutoCompleteTest.csproj.AssemblyReference.cache
+D:\Antony\NCCU\Seminar\AutoCompleteTest\obj\Debug\net7.0\AutoCompleteTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antony\NCCU\Seminar\AutoCompleteTest\obj\Debug\net7.0\AutoCompleteTest.AssemblyInfoInputs.cache
+D:\Antony\NCCU\Seminar\AutoCompleteTest\obj\Debug\net7.0\AutoCompleteTest.AssemblyInfo.cs
+D:\Antony\NCCU\Seminar\AutoCompleteTest\obj\Debug\net7.0\AutoCompleteTest.csproj.CoreCompileInputs.cache
+D:\Antony\NCCU\Seminar\AutoCompleteTest\obj\Debug\net7.0\AutoCompleteTest.dll
+D:\Antony\NCCU\Seminar\AutoCompleteTest\obj\Debug\net7.0\refint\AutoCompleteTest.dll
+D:\Antony\NCCU\Seminar\AutoCompleteTest\obj\Debug\net7.0\AutoCompleteTest.pdb
+D:\Antony\NCCU\Seminar\AutoCompleteTest\obj\Debug\net7.0\AutoCompleteTest.genruntimeconfig.cache
+D:\Antony\NCCU\Seminar\AutoCompleteTest\obj\Debug\net7.0\ref\AutoCompleteTest.dll
