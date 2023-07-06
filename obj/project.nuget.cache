@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pfWDMZMgBpMyt9rEKyoYlD93aofwle8F1NVHlM2Ozr8d69Te31P9adPCnT+MDyu3+r6WwV4XqsT1rr/hvbZcMQ==",
+  "dgSpecHash": "s1ZvcmyFIec5BFWP2ItjIu92v0FCe2G86RskRfAAlW2gO+OMoX3VXKGO4enGcpZt7mz2xD1eZbNFruI+W+C4lQ==",
   "success": true,
-  "projectFilePath": "D:\\Antony\\NCCU\\Seminar\\AutoCompleteTest\\AutoCompleteTest.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/mnt/c/Users/user/Desktop/Antony/NCCU/Seminar/AutoCompleteTest/AutoCompleteTest.csproj",
+  "expectedPackageFiles": [
+    "/home/hoshichen/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

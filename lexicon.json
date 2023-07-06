@@ -1,0 +1,87 @@
+{
+  "Value": "\u0000",
+  "Children": {
+    "a": {
+      "Value": "a",
+      "Children": {
+        "p": {
+          "Value": "p",
+          "Children": {
+            "p": {
+              "Value": "p",
+              "Children": {
+                "l": {
+                  "Value": "l",
+                  "Children": {
+                    "e": {
+                      "Value": "e",
+                      "Children": {},
+                      "IsEndOfWord": true
+                    }
+                  },
+                  "IsEndOfWord": false
+                }
+              },
+              "IsEndOfWord": true
+            }
+          },
+          "IsEndOfWord": false
+        }
+      },
+      "IsEndOfWord": false
+    },
+    "b": {
+      "Value": "b",
+      "Children": {
+        "a": {
+          "Value": "a",
+          "Children": {
+            "n": {
+              "Value": "n",
+              "Children": {
+                "a": {
+                  "Value": "a",
+                  "Children": {
+                    "n": {
+                      "Value": "n",
+                      "Children": {
+                        "a": {
+                          "Value": "a",
+                          "Children": {},
+                          "IsEndOfWord": true
+                        }
+                      },
+                      "IsEndOfWord": false
+                    }
+                  },
+                  "IsEndOfWord": false
+                }
+              },
+              "IsEndOfWord": false
+            }
+          },
+          "IsEndOfWord": false
+        }
+      },
+      "IsEndOfWord": false
+    },
+    "c": {
+      "Value": "c",
+      "Children": {
+        "a": {
+          "Value": "a",
+          "Children": {
+            "r": {
+              "Value": "r",
+              "Children": {},
+              "IsEndOfWord": true
+            }
+          },
+          "IsEndOfWord": false
+        }
+      },
+      "IsEndOfWord": false
+    }
+  },
+  "IsEndOfWord": false
+}
